@@ -16,6 +16,7 @@ Upload 3 file
     Upload file  3
     Upload should be succeed  100
     Count Files
+    Last Test
 
 *** Keywords ***
 Open angular upload page
