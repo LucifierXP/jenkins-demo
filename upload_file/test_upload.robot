@@ -50,3 +50,6 @@ Count Files
     ...  path=${CURDIR}
     ...  pattern="*.png"
     Log to console  ${count}
+
+Last Test
+    Log to console  "Last Test"
